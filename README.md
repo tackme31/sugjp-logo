@@ -3,7 +3,7 @@ An SVG formatted logo of Sitecore Ueser Group Japan.
 
 |Tansparent backgrournd|Filled background|
 |:-:|:-:|
-|<img src="./icon-transparent.svg" width="200px" style="background: skyblue;" >|<img src="./icon-filled.svg" width="200px" style="background: skyblue;" >|
+|<img src="./logo-transparent.svg" width="200px" style="background: skyblue;" >|<img src="./logo-filled.svg" width="200px" style="background: skyblue;" >|
 
 ## Links
 - [SUG日本 - Google グループ](https://groups.google.com/forum/#!forum/sugnihon)
