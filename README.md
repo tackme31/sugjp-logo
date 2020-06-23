@@ -1,5 +1,5 @@
 # :tokyo_tower:SUGJP Logo:sushi:
-An SVG formatted logo of Sitecore User Group Japan.
+SVG logo of the Sitecore User Group Japan
 
 |Transparent background|Filled background|Monocolor|
 |:-:|:-:|:-:|
@@ -7,4 +7,5 @@ An SVG formatted logo of Sitecore User Group Japan.
 
 ## Links
 - [SUG日本 - Google グループ](https://groups.google.com/forum/#!forum/sugnihon)
+- [Sitecore User Group Japan 日本 | グループ | Facebook](https://www.facebook.com/groups/sugnihon)
 - [SUG日本 (Sitecore User Group Japan) (@sugnihon) / Twitter](https://twitter.com/sugnihon)
